@@ -1,0 +1,7 @@
+D:\DOC\GitHub\fiddler_extention\AutoRequest\bin\Debug\AutoRequest.dll
+D:\DOC\GitHub\fiddler_extention\AutoRequest\bin\Debug\AutoRequest.pdb
+D:\DOC\GitHub\fiddler_extention\AutoRequest\obj\Debug\ResolveAssemblyReference.cache
+D:\DOC\GitHub\fiddler_extention\AutoRequest\obj\Debug\FidderView.resources
+D:\DOC\GitHub\fiddler_extention\AutoRequest\obj\Debug\AutoRequest.csproj.GenerateResource.Cache
+D:\DOC\GitHub\fiddler_extention\AutoRequest\obj\Debug\AutoRequest.dll
+D:\DOC\GitHub\fiddler_extention\AutoRequest\obj\Debug\AutoRequest.pdb

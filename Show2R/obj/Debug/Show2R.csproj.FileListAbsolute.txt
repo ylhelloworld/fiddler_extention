@@ -1,0 +1,12 @@
+D:\DOC\GitHub\fiddler_extention\Show2R\bin\Debug\Show2R.dll
+D:\DOC\GitHub\fiddler_extention\Show2R\bin\Debug\Show2R.pdb
+D:\DOC\GitHub\fiddler_extention\Show2R\bin\Debug\Fiddler.exe
+D:\DOC\GitHub\fiddler_extention\Show2R\bin\Debug\Xceed.FileSystem.dll
+D:\DOC\GitHub\fiddler_extention\Show2R\bin\Debug\Xceed.Zip.dll
+D:\DOC\GitHub\fiddler_extention\Show2R\bin\Debug\Xceed.Compression.dll
+D:\DOC\GitHub\fiddler_extention\Show2R\bin\Debug\Xceed.Compression.Formats.dll
+D:\DOC\GitHub\fiddler_extention\Show2R\obj\Debug\ResolveAssemblyReference.cache
+D:\DOC\GitHub\fiddler_extention\Show2R\obj\Debug\FillderView.resources
+D:\DOC\GitHub\fiddler_extention\Show2R\obj\Debug\Show2R.csproj.GenerateResource.Cache
+D:\DOC\GitHub\fiddler_extention\Show2R\obj\Debug\Show2R.dll
+D:\DOC\GitHub\fiddler_extention\Show2R\obj\Debug\Show2R.pdb
